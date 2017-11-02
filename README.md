@@ -1,2 +1,2 @@
-# dnget
-dotnet get is net core analog of "wget" downloader
+# monoget
+monoget is mono analog of "wget" downloader
